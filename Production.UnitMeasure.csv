@@ -1,0 +1,39 @@
+UnitMeasureCode,Name,ModifiedDate
+BOX,Boxes,00:00.0
+BTL,Bottle,00:00.0
+C  ,Celsius,00:00.0
+CAN,Canister,00:00.0
+CAR,Carton,00:00.0
+CBM,Cubic meters,00:00.0
+CCM,Cubic centimeter,00:00.0
+CDM,Cubic decimeter,00:00.0
+CM ,Centimeter,00:00.0
+CM2,Square centimeter,00:00.0
+CR ,Crate,00:00.0
+CS ,Case,00:00.0
+CTN,Container,00:00.0
+DM ,Decimeter,00:00.0
+DZ ,Dozen,00:00.0
+EA ,Each,00:00.0
+FT3,Cubic foot,00:00.0
+G  ,Gram,00:00.0
+GAL,Gallon,00:00.0
+IN ,Inch,00:00.0
+KG ,Kilogram,00:00.0
+KGV,Kilogram/cubic meter,00:00.0
+KM ,Kilometer,00:00.0
+KT ,Kiloton,00:00.0
+L  ,Liter,00:00.0
+LB ,US pound,00:00.0
+M  ,Meter,00:00.0
+M2 ,Square meter,00:00.0
+M3 ,Cubic meter,00:00.0
+MG ,Milligram,00:00.0
+ML ,Milliliter,00:00.0
+MM ,Millimeter,00:00.0
+OZ ,Ounces,00:00.0
+PAK,Pack,00:00.0
+PAL,Pallet,00:00.0
+PC ,Piece,00:00.0
+PCT,Percentage,00:00.0
+PT ,"Pint, US liquid",00:00.0

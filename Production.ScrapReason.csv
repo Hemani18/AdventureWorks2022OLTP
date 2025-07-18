@@ -1,0 +1,17 @@
+ScrapReasonID,Name,ModifiedDate
+1,Brake assembly not as ordered,00:00.0
+2,Color incorrect,00:00.0
+3,Gouge in metal,00:00.0
+4,Drill pattern incorrect,00:00.0
+5,Drill size too large,00:00.0
+6,Drill size too small,00:00.0
+7,Handling damage,00:00.0
+8,Paint process failed,00:00.0
+9,Primer process failed,00:00.0
+10,Seat assembly not as ordered,00:00.0
+11,Stress test failed,00:00.0
+12,Thermoform temperature too high,00:00.0
+13,Thermoform temperature too low,00:00.0
+14,Trim length too long,00:00.0
+15,Trim length too short,00:00.0
+16,Wheel misaligned,00:00.0
